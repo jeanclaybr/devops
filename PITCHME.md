@@ -11,17 +11,17 @@ mais vasto é meu coração."
 ---
 ### Dev
 Shiny!
-![shiny](https://youtu.be/93lrosBEW-Q?t=26s)
+![Video](https://youtu.be/93lrosBEW-Q?t=26s)
 ---
 
 ### Ops
 You shall not pass!
-![You shall not pass](https://youtu.be/V4UfAL9f74I)
+![Video](https://youtu.be/V4UfAL9f74I)
 ![You shall not pass 2](https://www.inglesnapontadalingua.com.br/wp-content/uploads/2014/08/You-shall-not-pass-2.jpg)
 ---
 
 ### QA
-![let it grow](https://www.youtube.com/watch?v=z1KDRTKpPZw)
+![Video](https://www.youtube.com/watch?v=z1KDRTKpPZw)
 ---
 
 ![Devops Traduzido](https://pt.wikipedia.org/wiki/Ficheiro:Devops_Traduzido.png)
