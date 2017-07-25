@@ -21,7 +21,7 @@ You shall not pass!
 ---
 
 ### QA
-![Video](https://www.youtube.com/watch?v=z1KDRTKpPZw)
+![Video](https://www.youtube.com/embed/z1KDRTKpPZw)
 ---
 
 ![Devops Traduzido](https://pt.wikipedia.org/wiki/Ficheiro:Devops_Traduzido.png)
