@@ -23,7 +23,7 @@ You shall not pass!
 ![Video](https://www.youtube.com/embed/z1KDRTKpPZw)
 ---
 
-![Devops Traduzido](https://pt.wikipedia.org/wiki/Ficheiro:Devops_Traduzido.png)
+![Devops Traduzido](https://upload.wikimedia.org/wikipedia/commons/0/0f/Devops_Traduzido.png)
 
 ### The wall
 
@@ -31,12 +31,12 @@ You shall not pass!
 
 ### What should we do?
 
-![what should we do](https://www.youtube.com/CS_FCbQ-okM?list=RDFCMHmDnfD6I)
+![Video](https://www.youtube.com/embed/CS_FCbQ-okM?list=RDFCMHmDnfD6I)
 
 ---
 
 ### Tear Down the Wall
-![tear down the wall](https://www.youtube.com/FCMHmDnfD6I?t=4m57s)
+![Video](https://www.youtube.com/embed/FCMHmDnfD6I?t=4m57s)
 Keep Calm
 And
 Tear Down
