@@ -1,0 +1,47 @@
+# Devops
+
+- Workshop sobre cultura Devops
+
+"Mundo mundo vasto mundo, 
+se eu me chamasse Raimundo 
+seria uma rima, não seria uma solução. 
+Mundo mundo vasto mundo, 
+mais vasto é meu coração."
+
+---
+### Dev
+Shiny!
+![shiny](https://youtu.be/93lrosBEW-Q?t=26s)
+---
+
+### Ops
+You shall not pass!
+![You shall not pass](https://youtu.be/V4UfAL9f74I)
+![You shall not pass 2](https://www.inglesnapontadalingua.com.br/wp-content/uploads/2014/08/You-shall-not-pass-2.jpg)
+---
+
+### QA
+![let it grow](https://www.youtube.com/watch?v=z1KDRTKpPZw)
+---
+
+![Devops Traduzido](https://pt.wikipedia.org/wiki/Ficheiro:Devops_Traduzido.png)
+
+### The wall
+
+---
+
+### What should we do?
+
+![what should we do](https://youtu.be/CS_FCbQ-okM?list=RDFCMHmDnfD6I)
+
+---
+
+### Tear Down the Wall
+![tear down the wall](https://youtu.be/FCMHmDnfD6I?t=4m57s)
+Keep Calm
+And
+Tear Down
+The Wall
+
+
+
