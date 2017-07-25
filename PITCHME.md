@@ -11,12 +11,12 @@ mais vasto é meu coração."
 ---
 ### Dev
 Shiny!
-![Video](https://youtu.be/embed/93lrosBEW-Q?t=26s)
+![Video](https://www.youtube.com/embed/93lrosBEW-Q?t=26s)
 ---
 
 ### Ops
 You shall not pass!
-![Video](https://youtu.be/embed/V4UfAL9f74I)
+![Video](https://www.youtube.com/embed/V4UfAL9f74I)
 ---
 
 ### QA
@@ -31,12 +31,12 @@ You shall not pass!
 
 ### What should we do?
 
-![what should we do](https://youtu.be/CS_FCbQ-okM?list=RDFCMHmDnfD6I)
+![what should we do](https://www.youtube.com/CS_FCbQ-okM?list=RDFCMHmDnfD6I)
 
 ---
 
 ### Tear Down the Wall
-![tear down the wall](https://youtu.be/FCMHmDnfD6I?t=4m57s)
+![tear down the wall](https://www.youtube.com/FCMHmDnfD6I?t=4m57s)
 Keep Calm
 And
 Tear Down
