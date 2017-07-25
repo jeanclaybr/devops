@@ -11,13 +11,12 @@ mais vasto é meu coração."
 ---
 ### Dev
 Shiny!
-![Video](https://youtu.be/93lrosBEW-Q?t=26s)
+![Video](https://youtu.be/embed/93lrosBEW-Q?t=26s)
 ---
 
 ### Ops
 You shall not pass!
-![Video](https://youtu.be/V4UfAL9f74I)
-![You shall not pass 2](https://www.inglesnapontadalingua.com.br/wp-content/uploads/2014/08/You-shall-not-pass-2.jpg)
+![Video](https://youtu.be/embed/V4UfAL9f74I)
 ---
 
 ### QA
